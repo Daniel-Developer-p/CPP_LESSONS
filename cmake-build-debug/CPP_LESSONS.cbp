@@ -8,43 +8,43 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/Users/daniiltcannikov/CLionProjects/CPP_LESSONS/cmake-build-debug"/>
+				<Option working_dir="/Users/daniiltcannikov/CLionProjects/CPP_LESSONS_/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/daniiltcannikov/CLionProjects/CPP_LESSONS/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/daniiltcannikov/CLionProjects/CPP_LESSONS/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/daniiltcannikov/CLionProjects/CPP_LESSONS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/daniiltcannikov/CLionProjects/CPP_LESSONS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/daniiltcannikov/CLionProjects/CPP_LESSONS_/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/daniiltcannikov/CLionProjects/CPP_LESSONS_/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/daniiltcannikov/CLionProjects/CPP_LESSONS_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/daniiltcannikov/CLionProjects/CPP_LESSONS_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/Users/daniiltcannikov/CLionProjects/CPP_LESSONS/cmake-build-debug"/>
+				<Option working_dir="/Users/daniiltcannikov/CLionProjects/CPP_LESSONS_/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/daniiltcannikov/CLionProjects/CPP_LESSONS/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/daniiltcannikov/CLionProjects/CPP_LESSONS/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/daniiltcannikov/CLionProjects/CPP_LESSONS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/daniiltcannikov/CLionProjects/CPP_LESSONS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/daniiltcannikov/CLionProjects/CPP_LESSONS_/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/daniiltcannikov/CLionProjects/CPP_LESSONS_/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/daniiltcannikov/CLionProjects/CPP_LESSONS_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/daniiltcannikov/CLionProjects/CPP_LESSONS_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/Users/daniiltcannikov/CLionProjects/CPP_LESSONS/cmake-build-debug"/>
+				<Option working_dir="/Users/daniiltcannikov/CLionProjects/CPP_LESSONS_/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/daniiltcannikov/CLionProjects/CPP_LESSONS/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/daniiltcannikov/CLionProjects/CPP_LESSONS/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/daniiltcannikov/CLionProjects/CPP_LESSONS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/daniiltcannikov/CLionProjects/CPP_LESSONS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/daniiltcannikov/CLionProjects/CPP_LESSONS_/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/daniiltcannikov/CLionProjects/CPP_LESSONS_/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/daniiltcannikov/CLionProjects/CPP_LESSONS_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/daniiltcannikov/CLionProjects/CPP_LESSONS_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="CPP_LESSONS">
-				<Option output="/Users/daniiltcannikov/CLionProjects/CPP_LESSONS/cmake-build-debug/CPP_LESSONS" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/daniiltcannikov/CLionProjects/CPP_LESSONS/cmake-build-debug"/>
+				<Option output="/Users/daniiltcannikov/CLionProjects/CPP_LESSONS_/cmake-build-debug/CPP_LESSONS" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/daniiltcannikov/CLionProjects/CPP_LESSONS_/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/Users/daniiltcannikov/CLionProjects/CPP_LESSONS/."/>
+					<Add directory="/Users/daniiltcannikov/CLionProjects/CPP_LESSONS_/."/>
 					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
 					<Add directory="/usr/local/include"/>
 					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
@@ -53,20 +53,20 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/daniiltcannikov/CLionProjects/CPP_LESSONS/cmake-build-debug/Makefile&quot;  VERBOSE=1 CPP_LESSONS"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/daniiltcannikov/CLionProjects/CPP_LESSONS/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/daniiltcannikov/CLionProjects/CPP_LESSONS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/daniiltcannikov/CLionProjects/CPP_LESSONS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/daniiltcannikov/CLionProjects/CPP_LESSONS_/cmake-build-debug/Makefile&quot;  VERBOSE=1 CPP_LESSONS"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/daniiltcannikov/CLionProjects/CPP_LESSONS_/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/daniiltcannikov/CLionProjects/CPP_LESSONS_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/daniiltcannikov/CLionProjects/CPP_LESSONS_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="CPP_LESSONS/fast">
-				<Option output="/Users/daniiltcannikov/CLionProjects/CPP_LESSONS/cmake-build-debug/CPP_LESSONS" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/daniiltcannikov/CLionProjects/CPP_LESSONS/cmake-build-debug"/>
+				<Option output="/Users/daniiltcannikov/CLionProjects/CPP_LESSONS_/cmake-build-debug/CPP_LESSONS" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/daniiltcannikov/CLionProjects/CPP_LESSONS_/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/Users/daniiltcannikov/CLionProjects/CPP_LESSONS/."/>
+					<Add directory="/Users/daniiltcannikov/CLionProjects/CPP_LESSONS_/."/>
 					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
 					<Add directory="/usr/local/include"/>
 					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
@@ -75,41 +75,44 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/daniiltcannikov/CLionProjects/CPP_LESSONS/cmake-build-debug/Makefile&quot;  VERBOSE=1 CPP_LESSONS/fast"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/daniiltcannikov/CLionProjects/CPP_LESSONS/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/daniiltcannikov/CLionProjects/CPP_LESSONS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/daniiltcannikov/CLionProjects/CPP_LESSONS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/daniiltcannikov/CLionProjects/CPP_LESSONS_/cmake-build-debug/Makefile&quot;  VERBOSE=1 CPP_LESSONS/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/daniiltcannikov/CLionProjects/CPP_LESSONS_/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/daniiltcannikov/CLionProjects/CPP_LESSONS_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/daniiltcannikov/CLionProjects/CPP_LESSONS_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/daniiltcannikov/CLionProjects/CPP_LESSONS/06112021.cpp">
+		<Unit filename="/Users/daniiltcannikov/CLionProjects/CPP_LESSONS_/06112021.cpp">
 			<Option target="CPP_LESSONS"/>
 		</Unit>
-		<Unit filename="/Users/daniiltcannikov/CLionProjects/CPP_LESSONS/Figure.cpp">
+		<Unit filename="/Users/daniiltcannikov/CLionProjects/CPP_LESSONS_/13112021.cpp">
 			<Option target="CPP_LESSONS"/>
 		</Unit>
-		<Unit filename="/Users/daniiltcannikov/CLionProjects/CPP_LESSONS/Figure.h">
+		<Unit filename="/Users/daniiltcannikov/CLionProjects/CPP_LESSONS_/Figure.cpp">
 			<Option target="CPP_LESSONS"/>
 		</Unit>
-		<Unit filename="/Users/daniiltcannikov/CLionProjects/CPP_LESSONS/Fraction.cpp">
+		<Unit filename="/Users/daniiltcannikov/CLionProjects/CPP_LESSONS_/Figure.h">
 			<Option target="CPP_LESSONS"/>
 		</Unit>
-		<Unit filename="/Users/daniiltcannikov/CLionProjects/CPP_LESSONS/Fraction.h">
+		<Unit filename="/Users/daniiltcannikov/CLionProjects/CPP_LESSONS_/Fraction.cpp">
 			<Option target="CPP_LESSONS"/>
 		</Unit>
-		<Unit filename="/Users/daniiltcannikov/CLionProjects/CPP_LESSONS/FractionAdder.cpp">
+		<Unit filename="/Users/daniiltcannikov/CLionProjects/CPP_LESSONS_/Fraction.h">
 			<Option target="CPP_LESSONS"/>
 		</Unit>
-		<Unit filename="/Users/daniiltcannikov/CLionProjects/CPP_LESSONS/FractionAdder.h">
+		<Unit filename="/Users/daniiltcannikov/CLionProjects/CPP_LESSONS_/FractionAdder.cpp">
 			<Option target="CPP_LESSONS"/>
 		</Unit>
-		<Unit filename="/Users/daniiltcannikov/CLionProjects/CPP_LESSONS/Rectangle.cpp">
+		<Unit filename="/Users/daniiltcannikov/CLionProjects/CPP_LESSONS_/FractionAdder.h">
 			<Option target="CPP_LESSONS"/>
 		</Unit>
-		<Unit filename="/Users/daniiltcannikov/CLionProjects/CPP_LESSONS/Rectangle.h">
+		<Unit filename="/Users/daniiltcannikov/CLionProjects/CPP_LESSONS_/Rectangle.cpp">
 			<Option target="CPP_LESSONS"/>
 		</Unit>
-		<Unit filename="/Users/daniiltcannikov/CLionProjects/CPP_LESSONS/CMakeLists.txt">
+		<Unit filename="/Users/daniiltcannikov/CLionProjects/CPP_LESSONS_/Rectangle.h">
+			<Option target="CPP_LESSONS"/>
+		</Unit>
+		<Unit filename="/Users/daniiltcannikov/CLionProjects/CPP_LESSONS_/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

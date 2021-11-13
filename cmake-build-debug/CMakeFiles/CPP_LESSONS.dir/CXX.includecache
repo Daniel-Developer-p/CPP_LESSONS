@@ -6,49 +6,53 @@
 
 #IncludeRegexTransform: 
 
-/Users/daniiltcannikov/CLionProjects/CPP_LESSONS/06112021.cpp
+/Users/daniiltcannikov/CLionProjects/CPP_LESSONS_/06112021.cpp
 iostream
 -
 Fraction.h
-/Users/daniiltcannikov/CLionProjects/CPP_LESSONS/Fraction.h
+/Users/daniiltcannikov/CLionProjects/CPP_LESSONS_/Fraction.h
 FractionAdder.h
-/Users/daniiltcannikov/CLionProjects/CPP_LESSONS/FractionAdder.h
+/Users/daniiltcannikov/CLionProjects/CPP_LESSONS_/FractionAdder.h
 Figure.h
-/Users/daniiltcannikov/CLionProjects/CPP_LESSONS/Figure.h
+/Users/daniiltcannikov/CLionProjects/CPP_LESSONS_/Figure.h
 Rectangle.h
-/Users/daniiltcannikov/CLionProjects/CPP_LESSONS/Rectangle.h
+/Users/daniiltcannikov/CLionProjects/CPP_LESSONS_/Rectangle.h
 
-/Users/daniiltcannikov/CLionProjects/CPP_LESSONS/Figure.cpp
+/Users/daniiltcannikov/CLionProjects/CPP_LESSONS_/13112021.cpp
+iostream
+-
+
+/Users/daniiltcannikov/CLionProjects/CPP_LESSONS_/Figure.cpp
 Figure.h
-/Users/daniiltcannikov/CLionProjects/CPP_LESSONS/Figure.h
+/Users/daniiltcannikov/CLionProjects/CPP_LESSONS_/Figure.h
 
-/Users/daniiltcannikov/CLionProjects/CPP_LESSONS/Figure.h
+/Users/daniiltcannikov/CLionProjects/CPP_LESSONS_/Figure.h
 
-/Users/daniiltcannikov/CLionProjects/CPP_LESSONS/Fraction.cpp
+/Users/daniiltcannikov/CLionProjects/CPP_LESSONS_/Fraction.cpp
 iostream
 -
 Fraction.h
-/Users/daniiltcannikov/CLionProjects/CPP_LESSONS/Fraction.h
+/Users/daniiltcannikov/CLionProjects/CPP_LESSONS_/Fraction.h
 
-/Users/daniiltcannikov/CLionProjects/CPP_LESSONS/Fraction.h
+/Users/daniiltcannikov/CLionProjects/CPP_LESSONS_/Fraction.h
 iostream
 -
 FractionAdder.h
-/Users/daniiltcannikov/CLionProjects/CPP_LESSONS/FractionAdder.h
+/Users/daniiltcannikov/CLionProjects/CPP_LESSONS_/FractionAdder.h
 
-/Users/daniiltcannikov/CLionProjects/CPP_LESSONS/FractionAdder.cpp
+/Users/daniiltcannikov/CLionProjects/CPP_LESSONS_/FractionAdder.cpp
 FractionAdder.h
-/Users/daniiltcannikov/CLionProjects/CPP_LESSONS/FractionAdder.h
+/Users/daniiltcannikov/CLionProjects/CPP_LESSONS_/FractionAdder.h
 Fraction.h
-/Users/daniiltcannikov/CLionProjects/CPP_LESSONS/Fraction.h
+/Users/daniiltcannikov/CLionProjects/CPP_LESSONS_/Fraction.h
 
-/Users/daniiltcannikov/CLionProjects/CPP_LESSONS/FractionAdder.h
+/Users/daniiltcannikov/CLionProjects/CPP_LESSONS_/FractionAdder.h
 
-/Users/daniiltcannikov/CLionProjects/CPP_LESSONS/Rectangle.cpp
+/Users/daniiltcannikov/CLionProjects/CPP_LESSONS_/Rectangle.cpp
 Rectangle.h
-/Users/daniiltcannikov/CLionProjects/CPP_LESSONS/Rectangle.h
+/Users/daniiltcannikov/CLionProjects/CPP_LESSONS_/Rectangle.h
 
-/Users/daniiltcannikov/CLionProjects/CPP_LESSONS/Rectangle.h
+/Users/daniiltcannikov/CLionProjects/CPP_LESSONS_/Rectangle.h
 Figure.h
-/Users/daniiltcannikov/CLionProjects/CPP_LESSONS/Figure.h
+/Users/daniiltcannikov/CLionProjects/CPP_LESSONS_/Figure.h
 

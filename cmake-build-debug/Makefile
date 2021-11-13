@@ -57,10 +57,10 @@ RM = "/Users/daniiltcannikov/Library/Application Support/JetBrains/Toolbox/apps/
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/daniiltcannikov/CLionProjects/CPP_LESSONS
+CMAKE_SOURCE_DIR = /Users/daniiltcannikov/CLionProjects/CPP_LESSONS_
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/daniiltcannikov/CLionProjects/CPP_LESSONS/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/daniiltcannikov/CLionProjects/CPP_LESSONS_/cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -87,9 +87,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/daniiltcannikov/CLionProjects/CPP_LESSONS/cmake-build-debug/CMakeFiles /Users/daniiltcannikov/CLionProjects/CPP_LESSONS/cmake-build-debug//CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/daniiltcannikov/CLionProjects/CPP_LESSONS_/cmake-build-debug/CMakeFiles /Users/daniiltcannikov/CLionProjects/CPP_LESSONS_/cmake-build-debug//CMakeFiles/progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/daniiltcannikov/CLionProjects/CPP_LESSONS/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/daniiltcannikov/CLionProjects/CPP_LESSONS_/cmake-build-debug/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -152,6 +152,30 @@ CPP_LESSONS/fast:
 06112021.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/CPP_LESSONS.dir/build.make CMakeFiles/CPP_LESSONS.dir/06112021.cpp.s
 .PHONY : 06112021.cpp.s
+
+13112021.o: 13112021.cpp.o
+.PHONY : 13112021.o
+
+# target to build an object file
+13112021.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/CPP_LESSONS.dir/build.make CMakeFiles/CPP_LESSONS.dir/13112021.cpp.o
+.PHONY : 13112021.cpp.o
+
+13112021.i: 13112021.cpp.i
+.PHONY : 13112021.i
+
+# target to preprocess a source file
+13112021.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/CPP_LESSONS.dir/build.make CMakeFiles/CPP_LESSONS.dir/13112021.cpp.i
+.PHONY : 13112021.cpp.i
+
+13112021.s: 13112021.cpp.s
+.PHONY : 13112021.s
+
+# target to generate assembly for a file
+13112021.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/CPP_LESSONS.dir/build.make CMakeFiles/CPP_LESSONS.dir/13112021.cpp.s
+.PHONY : 13112021.cpp.s
 
 Figure.o: Figure.cpp.o
 .PHONY : Figure.o
@@ -261,6 +285,9 @@ help:
 	@echo "... 06112021.o"
 	@echo "... 06112021.i"
 	@echo "... 06112021.s"
+	@echo "... 13112021.o"
+	@echo "... 13112021.i"
+	@echo "... 13112021.s"
 	@echo "... Figure.o"
 	@echo "... Figure.i"
 	@echo "... Figure.s"

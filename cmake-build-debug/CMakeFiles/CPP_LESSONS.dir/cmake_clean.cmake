@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/CPP_LESSONS.dir/06112021.cpp.o"
+  "CMakeFiles/CPP_LESSONS.dir/13112021.cpp.o"
   "CMakeFiles/CPP_LESSONS.dir/Figure.cpp.o"
   "CMakeFiles/CPP_LESSONS.dir/Fraction.cpp.o"
   "CMakeFiles/CPP_LESSONS.dir/FractionAdder.cpp.o"
