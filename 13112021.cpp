@@ -8,19 +8,23 @@ public:
 };
 
 class C : public D {
+public:
+    virtual void display() override {
+        std::cout << "D" << std::endl;
+    }
 };
 
 class B : public C {
 public:
-    virtual void display() {
+    virtual void display() override final {
         std::cout << "B" << std::endl;
     }
 };
 
-class A : public B {
+class A final : public B {
 public:
     virtual void display(int i) {
-        std::cout << "A" << std::endl;
+        std::cout << "A" << i << std::endl;
     }
 };
 
@@ -28,9 +32,10 @@ int main() {
     D d;
     C c;
     B b;
-    d.display();
-    c.display();
-    b.display();
+    A a;
+
+    C& a_as_c = a;
+    a_as_c.display();
 
     /*
     D& linkToA = c;
